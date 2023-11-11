@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    padding-top: 50px;
+}
+
+
+h1{
+    margin-bottom: 25px;
+    margin: auto;
+}
+
+
+table {
+    width: 100%;
+
+
+}
+
+table, th, td {
+    
+    border-collapse: collapse;
+    height: 60px;
+    text-align: center;
+    border: none;
+    border: 1px solid  rgb(220, 216, 216);;
+}
+
+th {
+    background-color: dodgerblue;
+    color: white;
+}
+
+caption{
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: orange;
+    color:white;
+    margin: auto;
+    width: 400px;
+    margin-bottom: 20px;
+}

@@ -1,2 +1,7 @@
 # skyline--tech
-skyline--tech
+skyline--tech |AGADA EDWIN MURPHY COHORT 11
+
+#TABLE 3
+
+
+TABLE 3 CONTAIN'S THE COURSE OUTLINE OF EACH STUDENT IN COHORT 11
